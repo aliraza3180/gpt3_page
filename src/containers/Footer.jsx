@@ -37,10 +37,8 @@ const Footer = () => (
         before others
       </h1>
     </div>
-    <div className="flex justify-center items-center mb-40 border p-4 text-[#FF8A71] hover:bg-[#FF8A71] hover:text-[#000000]">
-      <p className=" font-poppins font-light text-xs sm:text-base ">
-        Request Early Access
-      </p>
+    <div className="flex justify-center items-center mb-40 border p-4 text-[#FF8A71] hover:bg-[#FF8A71] hover:text-[#000000] hover:font-normal font-light">
+      <p className=" font-poppins text-xs sm:text-base">Request Early Access</p>
     </div>
     <div
       className="flex sm:flex-row 
